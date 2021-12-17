@@ -1,0 +1,27 @@
+body{
+  background: linear-gradient(90deg, rgb(106, 133, 138), #bda7a7);
+}
+
+
+.UAT{
+  width:300px;
+  height: 300px;
+}
+.UATSPACE {
+width:300px;
+height: 300px;
+}
+
+.button{
+  font-style: italic;
+  border-radius: 10px;
+  padding: 5px;
+  width: 120px;
+  border-width: 2px;
+  margin-right: 20px;
+  margin-top: 5px;
+  background: linear-gradient(40deg, rgb(228, 163, 163), #346e41);
+}
+h1{
+  
+}
